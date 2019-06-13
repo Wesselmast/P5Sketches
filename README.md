@@ -2,17 +2,17 @@
 
 Here the links to a few of my P5.js sketches!
 
-Bubble Sort with Visualisation
-https://editor.p5js.org/wesselmast/sketches/FUdVHnBwN
-
-Stopwatch with Visualisation
-https://editor.p5js.org/wesselmast/sketches/d73rvSJmu
-
 Binary Search Tree Visualisation
 https://editor.p5js.org/wesselmast/sketches/SPMIOHroV
 
 Fractal Tree Visualisation
 https://editor.p5js.org/wesselmast/sketches/EFVksUFPu
+
+Bubble Sort with Visualisation
+https://editor.p5js.org/wesselmast/sketches/FUdVHnBwN
+
+Stopwatch with Visualisation
+https://editor.p5js.org/wesselmast/sketches/d73rvSJmu
 
 Binary Converter
 https://editor.p5js.org/wesselmast/sketches/kt--mouQ4
